@@ -1,0 +1,21 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        500,
+        512
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/TommyZihao/zihao-tsne/master/hidden_features.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/TommyZihao/zihao-tsne/master/hidden_features_label.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/TommyZihao/zihao-tsne/master/test.png",
+        "singleImageDim": [
+          32,
+          32
+        ]
+      },
+      "bookmarksPath": "https://raw.githubusercontent.com/TommyZihao/zihao-tsne/master/test3.txt"
+    }
+  ]
+}
